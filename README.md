@@ -49,3 +49,18 @@ The probabilistic model slightly outperforms the deterministic approach, suggest
    ```bash
    git clone https://github.com/FransDroid/flight_delays_predict.git
    cd flight-delay-prediction
+   ```
+2. **Install Required Libraries**:
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+To predict flight delays:
+
+- Ensure data files are in the data/ directory.
+- Run the relevant notebook to generate predictions.
+
+
+## License
+This project is licensed under the MIT License. See LICENSE for details.
